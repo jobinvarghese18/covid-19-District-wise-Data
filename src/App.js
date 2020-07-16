@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Formik from './components/formik'
+import Home from './components/Home'
 
 function App() {
   return (
    <div>
-     <Formik/>
+     <Home/>
    </div>
   );
 }
